@@ -1,6 +1,6 @@
 # college football project
 
-These files contain data, analysis, and visualizations for college football.
+These files contain college football data, analysis, and visualizations.
 
 ## `2021_fbs_teams.csv`
 
