@@ -14,7 +14,7 @@ Column | Description
 `season_type` | Whether the game was played during the regular or postseason
  `start_date` | Date on which the game was played (yyyy-mm-dd hh:mm:ss) 
  `neutral_site` | 'TRUE' or 'FALSE' depending on if the game was played at a neutral site
- `conference_game` | 'TRUE' or 'FALSE' depending on if the game was conference or out-of-conference (OOC)
+ `conference_game` | 'TRUE' or 'FALSE' depending on if the game was in-conference or out-of-conference (OOC)
  `attendance` | Attendance for the game
  `venue_id` | Unique identifier for the venue
  `venue` | The venue where the game was played
