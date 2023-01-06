@@ -1,7 +1,21 @@
 # college football project
 
+## Motivation
 These files contain college football data, analysis, and visualizations.
 
+## Installation
+Necessary data sets and shapefiles are included in the Github repository.
+
+Install R 4.1 or later (optionally, install RStudio as an IDE) and load the following packages.
+```
+install.packages(c("tidyverse", "cfbplotR", "cfbfastR". "tictoc", "gt", "gtExtras", "RColorBrewer"))
+```
+
+## Scripts
+- ```middle_8.r``` Testing a hypothesis about the performance of teams during the "middle 8" (last 4 minutes of 2Q and first 4 minutes of 3Q).
+- ```point_differential.r``` Computing point differentials for the 2021 CFB season with tables and visualizations.
+
+# Data
 ## `2021_fbs_teams.csv`
 
 Source: College Football Data
